@@ -1,3 +1,3 @@
 # hello-world
 sandbox - This is my first attempt to use GitHub for the data analysis course from Coursera.
-I should see differences.
+I hope I see differences.
